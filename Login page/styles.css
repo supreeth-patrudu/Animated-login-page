@@ -16,7 +16,7 @@ section {
   justify-content: center;
   align-items: center;
   min-height: 100vh; /*means 100% vertical height*/
-  background-image: url('/images/Chocolate1.jpg');
+  background-image: url('./images/Chocolate1.jpg');
   background-size:cover;
   background-repeat: no-repeat;
 }
